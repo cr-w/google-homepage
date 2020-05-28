@@ -1,0 +1,1 @@
+Learned how to replicate the basic Google Homepage as part of The Odin Project fullstack development curriculum.
